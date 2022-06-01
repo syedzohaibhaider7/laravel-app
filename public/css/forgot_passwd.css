@@ -1,0 +1,31 @@
+h2 {
+    text-align: center;
+}
+
+form {
+    display: block;
+    border: 2px solid #aa6804;
+    padding: 15px;
+    width: 30%;
+    margin: auto;
+    transform: translateY(90%);
+    text-align: center;
+}
+
+input[type=submit] {
+    background-color: #aa6804;
+    color: white;
+    padding: 10px 10px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+}
+
+input[type=submit]:hover {
+    opacity: 0.8;
+}
+
+p {
+    color: #aa6804;
+}
